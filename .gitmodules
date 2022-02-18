@@ -1,0 +1,4 @@
+[submodule "asf4"]
+	path = asf4
+	url = https://github.com/adafruit/asf4.git
+	branch = circuitpython
