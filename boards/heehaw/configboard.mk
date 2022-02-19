@@ -1,0 +1,3 @@
+CHIP_VARIANT = SAMD21G18A
+CHIP_FAMILY = samd21
+LINKER_SCRIPT = asf4/samd21/gcc/gcc/samd21g18a_flash.ld
